@@ -39,7 +39,7 @@
     "monkeypatch": "1.0.0",
     "nestjs-command": "2.0.0",
     "reflect-metadata": "0.1.13",
-    "slugify": "1.5.2",
+    "slugify": "1.5.3",
     "typeorm": "0.2.32",
     "uuid": "8.3.2"
   },
